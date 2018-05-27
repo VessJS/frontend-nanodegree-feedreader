@@ -3,6 +3,7 @@
 ## Getting Started
 ___
 
+This project tests the Feed Reader in Jasmine.<br>
 To see results of the tests you need to open index.html file. Jasmine results will be on the bottom of the page.
 
 ## Copy Link
